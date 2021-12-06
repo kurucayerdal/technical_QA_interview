@@ -12,6 +12,7 @@ I also used;
 - [Apache Poi][ApachePoi] Ability to read/write - from/to Excel 
 - [Bonigarcia WebDriver][WebDriver] 
 - [Thread Browser][Thread] and [Singleton Driver][Thread] Ability
+- [Runner Class][Runner] to execute all scenarios
 - Page Object Model([POM][POM]) Architecture
 
 
@@ -22,4 +23,5 @@ I also used;
    [ApachePoi]:<https://github.com/kurucayerdal/technical_QA_interview/blob/master/src/test/java/utilities/ExcelUtility.java>
    [Thread]:<https://github.com/kurucayerdal/technical_QA_interview/blob/master/src/test/java/utilities/BaseDriver.java>
    [WebDriver]:<https://github.com/kurucayerdal/technical_QA_interview/blob/master/src/test/java/utilities/BaseDriver.java>
+   [Runner]:<https://github.com/kurucayerdal/technical_QA_interview/blob/master/src/test/java/runner/RunnerForAllFeatures.java> 
    [POM]:<https://github.com/kurucayerdal/technical_QA_interview/tree/master/src/test/java/pages>
